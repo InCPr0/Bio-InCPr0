@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with ... para seguir Aprendiendo C#, sobre AntiHook y Reversing and Cracking
 - 💬 Ask me about ...
 - 📫 How to reach me: ahmedcouto@gmail.com
-- 😄 Pronouns: Toshiro
-- ⚡ Fun fact...
+- 😄 Pronombres: Toshiro
 
-## 🧑‍💻 Actual Projects in progress
-KeyMac Proyect
+
+## 🧑‍💻 Proyectos reales en curso
+Proyecto KeyMac
